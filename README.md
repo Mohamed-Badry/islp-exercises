@@ -6,7 +6,7 @@ I attempt to tackle both conceptual and applied exercises in these notebooks.
 
 ## Notes:
 - Questions that involve sketching are done using matplotlib's `xkcd` theme.
-- Mathematical proofs are written using the built-in latex renderer in markdown blocks by wrapping the latex code in `$...$` like so $\alpha^2 + \beta_0 = \gamma$ 
+- Mathematical proofs are written using mathjax inside the markdown cells by wrapping the mathjax code in `$...$` like so $\alpha^2 + \beta_0 = \gamma$ 
 
 ## TODO
 - Finish the remaining chapters
