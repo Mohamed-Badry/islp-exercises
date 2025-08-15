@@ -37,7 +37,10 @@ html:
 
 # Add launch buttons to each page
 launch_buttons:
+  notebook_interface: "jupyterlab"  
+  binderhub_url: "https://mybinder.org"
   colab_url: "https://colab.research.google.com"
+
 
 parse:
   myst_enable_extensions:
