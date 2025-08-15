@@ -1,7 +1,7 @@
 import svgwrite
 
 
-def create_islp_logo(filename="logo.svg"):
+def create_islp_logo(filename="./images/logo.svg"):
     """
     Generates a stylized SVG logo for "ISLP {Solutions}".
 
