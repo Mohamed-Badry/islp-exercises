@@ -1,0 +1,19 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: README
+
+chapters:
+- file: Exercises_ch02
+- file: Exercises_ch03
+- file: Exercises_ch04
+- file: Exercises_ch05
+- file: Exercises_ch06
+- file: Exercises_ch07
+- file: Exercises_ch08
+- file: Exercises_ch09
+- file: Exercises_ch10
+- file: Exercises_ch11
+- file: Exercises_ch12
+- file: Exercises_ch13

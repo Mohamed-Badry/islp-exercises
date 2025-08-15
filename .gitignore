@@ -1,4 +1,5 @@
 .ipynb_checkpoints
-data/*
+data/IMDB/*
 logs/*
 lightning_logs/*
+_build
