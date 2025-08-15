@@ -32,6 +32,7 @@ html:
   favicon: "images/book.png"
   use_issues_button: true
   use_repository_button: true
+  navigation_depth: -1
   analytics:
     google_analytics_id: "G-ECXWDYFXFV"
 
