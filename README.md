@@ -1,6 +1,6 @@
 ![Logo](./images/logo.svg)
 
-## Summary 
+# Summary 
 
 My solutions to the exercises in the book An Introduction to Statistical Learning with Python ([ISLP](https://www.statlearning.com/)).
 
