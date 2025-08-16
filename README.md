@@ -1,4 +1,4 @@
-![Logo](./images/logo.svg)
+<img src="./images/logo.svg" background="none">
 
 # Summary 
 
