@@ -33,6 +33,7 @@ html:
   use_issues_button: true
   use_repository_button: true
   navigation_depth: -1
+  baseurl: "mohamed-badry.github.io/islp-solutions/"
   analytics:
     google_analytics_id: "G-ECXWDYFXFV"
 
