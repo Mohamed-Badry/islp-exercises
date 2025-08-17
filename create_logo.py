@@ -87,7 +87,7 @@ def create_islp_logo(filename="./images/logo.svg"):
         font_weight=solutions_font_weight,
     )
     dwg.add(solutions_element)
-    current_x += len(solutions_text) * (font_size * 0.4) + letter_spacing_islp + 5
+    current_x += len(solutions_text) * (font_size * 0.4) + letter_spacing_islp + 3
 
     # Add "}"
     right_bracket = dwg.text(

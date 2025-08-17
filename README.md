@@ -1,6 +1,7 @@
 ![ISLP Solutions Logo](./images/logo.svg)
 
 
+[![deploy-book](https://github.com/Mohamed-Badry/islp-solutions/actions/workflows/deploy.yml/badge.svg?branch=main&event=push)](https://github.com/Mohamed-Badry/islp-solutions/actions/workflows/deploy.yml) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mohamed-Badry/islp-solutions/main)
 
 # Summary 
 
@@ -10,7 +11,7 @@ I attempt to tackle both conceptual and applied exercises in these notebooks.
 
 ### Read the Book
 
-You can explore the full Jupyter Book here: [ISLP Solutions](https://mohamed-badry.github.io/islp-solutions/)
+If you're reading this from github, you can explore the full Jupyter Book here: [ISLP Solutions](https://mohamed-badry.github.io/islp-solutions/)
 
 ### Notes:
 - Questions that involve sketching are done using matplotlib's `xkcd` theme.
@@ -19,7 +20,7 @@ You can explore the full Jupyter Book here: [ISLP Solutions](https://mohamed-bad
 
 ## Usage
 
-+ You can either read the [jupyter book](https://mohamed-badry.github.io/islp-solutions/) online, or just view the notebooks here on github.
++ You can either read the [jupyter book](https://mohamed-badry.github.io/islp-solutions/) online, or just view the notebooks on github.
 
 - If you're viewing it through the jupyter book, you can launch the notebooks using the rocket icon on the top right in `google colab` or `binder` to experiment with them, keep in mind that you might have to run a few `pip` installs for the missing libraries on colab.
 
@@ -31,6 +32,7 @@ cd islp-solutions
 pip install -r requirements.txt
 jupyter notebook
 ```
+
 or build the book with
 ```bash
 pip install -r requirements-book.txt
